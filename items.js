@@ -124,7 +124,7 @@ function displayProducts() {
         const card = document.createElement('div');
         card.className = 'product-card';
         card.innerHTML = `
-            <div class="product-image">${patch.emoji}</div>
+            <div class="product-image">${patch.image ? `<img src="${patch.image}" alt="${patch.name}">` : patch.emoji}</div>
             <div class="product-info">
                 <div class="product-name">${patch.name}</div>
                 <div class="product-details">
