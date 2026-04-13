@@ -1,8 +1,8 @@
 // Sample rangoli patches data (50 items)
 const rangoliPatches = [
-    { id: 1, name: 'Traditional Lotus', price: 299, dimensions: '4" x 4"', emoji: '🌸' },
-    { id: 2, name: 'Geometric Circle', price: 249, dimensions: '3" x 3"', emoji: '⭕' },
-    { id: 3, name: 'Floral Border', price: 349, dimensions: '5" x 5"', emoji: '🌺' },
+    { id: 1, name: 'Traditional Lotus', price: 299, dimensions: '4" x 4"', emoji: '🌸', image: 'images/rangoli1.jpg' },
+    { id: 2, name: 'Geometric Circle', price: 249, dimensions: '3" x 3"', emoji: '⭕', image: 'images/rangoli2.jpg' },
+    { id: 3, name: 'Floral Border', price: 349, dimensions: '5" x 5"', emoji: '🌺', image: 'images/rangoli3.jpg' },
     { id: 4, name: 'Diamond Pattern', price: 279, dimensions: '4" x 4"', emoji: '💎' },
     { id: 5, name: 'Peacock Design', price: 399, dimensions: '6" x 6"', emoji: '🦚' },
     { id: 6, name: 'Mandala Art', price: 329, dimensions: '5" x 5"', emoji: '🎨' },
