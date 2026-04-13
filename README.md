@@ -67,7 +67,7 @@ Edit the WhatsApp number in `items.js`:
 
 ```javascript
 // Line 227 - Replace with your actual WhatsApp number
-const whatsappNumber = '919876543210'; // Update this!
+const whatsappNumber = '919623961202'; // Update this!
 ```
 
 ### 3. Add Product Images
@@ -164,7 +164,7 @@ Update CSS variables in `style.css`:
 
 ### Update Contact Information
 Edit `contact-us.html`:
-- WhatsApp link: `https://wa.me/919876543210`
+- WhatsApp link: `https://wa.me/919623961202`
 - Email: Update mailto link
 - Phone: Update tel link
 

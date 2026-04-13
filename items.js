@@ -263,7 +263,7 @@ function placeOrderOnWhatsApp() {
     message += `\n📊 Total Amount: ₹${total}\n\nPlease confirm the order and provide payment details.`;
 
     // WhatsApp number (Update this with your actual WhatsApp number)
-    const whatsappNumber = '919876543210'; // Replace with your WhatsApp number
+    const whatsappNumber = '919623961202'; // Replace with your WhatsApp number
 
     // Encode the message
     const encodedMessage = encodeURIComponent(message);
